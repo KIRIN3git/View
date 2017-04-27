@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 	// Canvas 中心点
 	private float xc = 0.0f;
-	private float yc =0.0f;
+	private float yc = 0.0f;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
